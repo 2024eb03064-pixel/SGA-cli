@@ -10,3 +10,4 @@ Command: whoami and id
 
 Answer. To confirm my location in the file system, I ran pwd to print the current working directory, then used ls -l to generate a detailed list of the files and folders there, showing their sizes, owners, and permissions.
 Command: pwd and ls -l
+3
